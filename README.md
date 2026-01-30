@@ -1,4 +1,4 @@
-# Healthcare Booking System
+# HealthFlow Booking
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8.0-green.svg)](https://dotnet.microsoft.com/apps/aspnet)
@@ -7,7 +7,7 @@
 
 ## Description
 
-**Healthcare Booking System** is a comprehensive web-based medical appointment platform built with **ASP.NET Core 8.0**. The system enables patients to schedule appointments with specialists, manage personal health records, and provides dedicated management portals for doctors and administrators.
+**HealthFlow Booking** is a comprehensive web-based medical appointment platform built with **ASP.NET Core 8.0**. The system enables patients to schedule appointments with specialists, manage personal health records, and provides dedicated management portals for doctors and administrators.
 
 ---
 
@@ -69,8 +69,7 @@
 
 ### Clone the Repository
 ```bash
-git clone [https://github.com/Desuuy/VinMec.git](https://github.com/Desuuy/VinMec.git)
-cd VinMec
+git clone https://github.com/Desuuy/HealthFlow_Booking
 ```
 
 ### Database Configuration
