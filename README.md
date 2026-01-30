@@ -1,13 +1,13 @@
-# VinMec Healthcare Booking System
+# Healthcare Booking System
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8.0-green.svg)](https://dotnet.microsoft.com/apps/aspnet)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-orange.svg)](https://www.microsoft.com/en-us/sql-server)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-##Description
+## Description
 
-**VinMec Healthcare Booking System** is a comprehensive web-based medical appointment platform built with **ASP.NET Core 8.0**. The system enables patients to schedule appointments with specialists, manage personal health records, and provides dedicated management portals for doctors and administrators.
+**Healthcare Booking System** is a comprehensive web-based medical appointment platform built with **ASP.NET Core 8.0**. The system enables patients to schedule appointments with specialists, manage personal health records, and provides dedicated management portals for doctors and administrators.
 
 ---
 
